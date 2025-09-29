@@ -1,0 +1,36 @@
+customer_id,customer_name,city,currency
+789101,Costco Wholesale,"New Jersey, US",USD
+789102,Vijay Stores,Ahmedabad,INR
+789103,Vijay Stores,Vadodara,INR
+789121,Coolblue,Ahmedabad,INR
+789122,Coolblue,Vadodara,INR
+789201,Rel Fresh,"New Jersey, US",USD
+789202,Rel Fresh,Ahmedabad,INR
+789203,Rel Fresh,Vadodara,INR
+789220,ShopRite,"New Jersey, US",USD
+789221,Atlas Stores,Ahmedabad,INR
+789301,Foodtown,"New Jersey, US",USD
+789303,Expression Stores,Vadodara,INR
+789320,Whole Foods Market,"New Jersey, US",USD
+789321,Chiptec Stores,Ahmedabad,INR
+789401,Wegmans,"New Jersey, US",USD
+789402,Propel Mart,Ahmedabad,INR
+789403,Propel Mart,Vadodara,INR
+789420,Lidl,"New Jersey, US",USD
+789421,Lotus Mart,Ahmedabad,INR
+789422,Lotus Mart,Vadodara,INR
+789501,Best Market,"New Jersey, US",USD
+789503,Viveks Stores,Vadodara,INR
+789520,Fairway Market,"New Jersey, US",USD
+789521,Acclaimed Stores,Ahmedabad,INR
+789522,Acclaimed Stores,Vadodara,INR
+789601,Price Rite,"New Jersey, US",USD
+789603,Info Stores,Vadodara,INR
+789621,Expert Mart,Ahmedabad,INR
+789622,Expert Mart,Vadodara,INR
+789702,Sorefoz Mart,Ahmedabad,INR
+789703,Sorefoz Mart,Vadodara,INR
+789720,Colonial Farms,"New Jersey, US",USD
+789721,Logic Stores,Ahmedabad,INR
+789902,Elite Mart,Ahmedabad,INR
+789903,Elite Mart,Vadodara,INR
