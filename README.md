@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Logistic%20Regressionator&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Logistic%20Regressionator&fontSize=60&fontAlignY=30&desc=By%20Sairaj%20Chowdhary&descSize=25&descAlignY=55&animation=twinkling&fontColor=fff&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Automated+Logistic+Regression+Pipeline;Cloud-Native+%7C+Scalable+%7C+Production-Ready;Powered+by+n8n+%2B+Supabase+%2B+Quadratic" alt="Typing SVG" />
