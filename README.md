@@ -6,7 +6,7 @@ This guide shows how to install and run n8n using **Node.js** on Windows.
 
 ---
 
-## 🎥 Demo Preview  
+## 🎥 Preview  
 ![n8n Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y0ZGxudnF0M3Q2bWJuaHZhbzZpYWt0ZXVwYXJodWhrYnZuaXdycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
