@@ -1,0 +1,19 @@
+product_name,product_id,category,price_INR,price_USD
+AM Milk 500,25891101,Dairy,125,4
+AM Milk 250,25891102,Dairy,62,2
+AM Milk 100,25891103,Dairy,25,1
+AM Butter 100,25891201,Dairy,60,2
+AM Butter 250,25891202,Dairy,150,4
+AM Butter 500,25891203,Dairy,300,9
+AM Ghee 250,25891301,Dairy,225,6
+AM Ghee 150,25891302,Dairy,135,4
+AM Ghee 100,25891303,Dairy,90,3
+AM Curd 250,25891401,Dairy,50,2.5
+AM Curd 100,25891402,Dairy,20,2
+AM Curd 50,25891403,Dairy,10,1
+AM Biscuits 750,25891501,Food,300,9
+AM Biscuits 500,25891502,Food,200,6
+AM Biscuits 250,25891503,Food,100,3
+AM Tea 500,25891601,beverages,225,6
+AM Tea 250,25891602,beverages,112,3
+AM Tea 100,25891603,beverages,45,1
